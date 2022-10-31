@@ -1,8 +1,6 @@
 # Olá, me chamo Marcos Silva. 
 ## Sou Desenvolvedor frontend, UX/UI Designer e Product Designer.
-<br>
-
-## Acesse aqui meu CV completo
+## <a href="https://marcosdesign.digital/resume/designer-web.pdf" target="_blank"> Acesse aqui meu CV completo</a>
 
 <div align="center">
   <a href="https://github.com/Marckgag">
