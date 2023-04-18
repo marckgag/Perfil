@@ -21,5 +21,5 @@
 <br>
 
 <div>
-  <a href="https://marcosdesign.digital/resume/designer-web.pdf" target="_blank"> Acesse aqui meu CV completo</a>
+  <a href="https://marcosdesign.digital/resume/mcasuxuiuxw-cv_europass2023.pdf" target="_blank"> Acesse aqui meu CV completo</a>
  </div>
